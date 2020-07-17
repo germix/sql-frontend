@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mariadb-logo.png</file>
+        <file>mysql-logo.png</file>
+        <file>images/file-exit.png</file>
+        <file>images/help-about.png</file>
+        <file>MainImage.png</file>
+        <file>icons/script.png</file>
+        <file>icons/clear.png</file>
+        <file>items/tvw_item-db.png</file>
+        <file>items/tvw_item-db-active.png</file>
+        <file>items/tvw_item-db-table.png</file>
+        <file>items/tvw_item-table.png</file>
+        <file>items/tvw_item-table-column.png</file>
+        <file>items/tvw_item-table-gear.png</file>
+        <file>items/tvw_item-table-row.png</file>
+        <file>icons/run.png</file>
+        <file>images/options-settings.png</file>
+    </qresource>
+</RCC>
